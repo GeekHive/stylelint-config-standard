@@ -1,0 +1,25 @@
+{
+  "name": "@geekhive/stylelint-config-standard",
+  "description": "Common stylelint configuration at GeekHive.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Justin Firth",
+    "email": "jfirth@geekhive.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeekHive/stylelint-config-standard"
+  },
+  "bugs": {
+    "url": "https://github.com/GeekHive/stylelint-config-standard/issues"
+  },
+  "main": "stylelint.config.js",
+  "peerDependencies": {
+    "stylelint": "^9.0.0"
+  },
+  "dependencies": {
+    "stylelint-config-prettier": "^4.0.0",
+    "stylelint-config-standard": "^18.2.0"
+  }
+}
