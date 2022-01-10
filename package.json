@@ -1,7 +1,7 @@
 {
   "name": "@geekhive/stylelint-config-standard",
   "description": "Common stylelint configuration at GeekHive.",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "license": "MIT",
   "author": {
     "name": "Justin Firth",
@@ -16,10 +16,10 @@
   },
   "main": "stylelint.config.js",
   "peerDependencies": {
-    "stylelint": "^9.0.0"
+    "stylelint": "^14.0.0"
   },
   "dependencies": {
-    "stylelint-config-prettier": "^4.0.0",
-    "stylelint-config-standard": "^18.2.0"
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^24.0.0"
   }
 }
